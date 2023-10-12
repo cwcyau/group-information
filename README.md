@@ -1,2 +1,7 @@
-# group-information
-Information about my research group
+# Research Group Information
+
+## Joining the group
+
+## Attendance
+
+## Research Projects
