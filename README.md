@@ -50,6 +50,40 @@ If you are taking a pre-planned leave of absence, you can provide this informati
 
 If you need to take that immediate time away (e.g. illness, bereavement), please notify me via e-mail or Slack where that is practical.
 
+## University-related travel
+
+If you are travelling on university-related business, please note that the university has certain restrictions and processes in place particularly related to travel outside of the UK. 
+
+NDWRH has step-by-step instructions on its [Booking a Trip](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet/SitePages/Booking-a-Trip.aspx) intranet page but you should remember to:
+
+1. 
+
+
+
+### Travel 
+
+### Travel Insurance
+
+The University provides travel insurance for University employees, students and volunteers travelling within the UK or worldwide on University business. Please see the [University Travel Insurance](https://finance.admin.ox.ac.uk/travel-insurance) for details. You will need to have obtained departmental travel approval before you can apply for travel insurance.
+
+### Travel Expenses
+
+If you incur any expenses (e.g. food, travel) during your travels, you may reclaim these costs typically up to a certain daily limit set by the university. You can find information on the University [Claimants Guide](https://finance.admin.ox.ac.uk/travel-expenses-claimants-guide).
+
+For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet).
+
+## Research Expenses
+
+The group generally has access to extensive financial resources and individual members may have access to exclusive 
+
+### Equipment Purchases
+
+
+
+### 
+
+
+
 ## Research documentation
 
 Regular documentation of your research is vital as it helps me to follow your progress and answer questions you may have inbetween face-to-face meetings. 
