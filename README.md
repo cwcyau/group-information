@@ -38,7 +38,7 @@ I may request meetings at a location in Central Oxford instead of the BDI depend
 
 Group members are expected to manage their own working hours. However, there is a reasonable expectation that you would be available for meetings between 09:00 and 17:00 from Mondays to Fridays with 24 hours prior notice. As long as group members make individual progress with their work, you will be given flexibility to manage your own time.
 
-Managed working hours will only be used where suitable and sufficient progress is made with your work.
+Managed working hours will only be used where suitable and sufficient progress is not being made with your work.
 
 ## Leave of absence
 
@@ -48,19 +48,20 @@ If you are taking a pre-planned leave of absence, you can provide this informati
 
 If you need to take that immediate time away (e.g. illness, bereavement), please notify me via e-mail or Slack where that is practical.
 
-## Research documention
+## Research documentation
+
+Regular documentation of your research is vital as it helps me to follow your progress and answer questions you may have inbetween face-to-face meetings. 
 
 ### Google Doc Logs
 
-Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).  You can leave questions for me within these documents. These will be regularly checked and commented on.
+Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).  You can leave questions for me within these documents. These will be regularly checked and commented on. 
 
 ### Overleaf
 
-For mathematical work, we will use shared Overleaf documents to enable collaborative.
+For mathematical work, we will use shared Overleaf documents to enable collaborative. Manuscripts will typically be written in the form of Latex documents unless journal choice mandates the use of Microsoft Word.
 
 ### Code repositories
 
-You are advised to store program codes and scripts in a code repository (e.g. Github).
-
+You are advised to regularly store program codes and scripts in a code repository (e.g. Github).
 
 ## Research Projects
