@@ -36,7 +36,7 @@ Desk allocations are reviewed periodically to maximise their use/occupancy. The 
 
 Many group members work remotely and the two hot desks provide space for when you need to be based in BDI.
 
-I may request meetings at a location in Central Oxford instead of the BDI depending on personal scheduling.
+I work remotely a lot myself so I may request meetings at a location in Central Oxford instead of the BDI depending on personal scheduling.
 
 ### Working Hours
 
