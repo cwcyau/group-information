@@ -4,9 +4,9 @@ The following provides some information about the group and how it works. The gr
 
 ## About Me
 
-As a senior academic, I have a numnber of university and national roles:
+As a senior academic, I have a number of university and national roles:
 
-- [Health Data Research UK] Deputy Director for Capacity Building
+- [Health Data Research UK](https://www.hdruk.ac.uk/) Deputy Director for Capacity Building
 - [MHRA](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) Scientific Advisor
 
 
