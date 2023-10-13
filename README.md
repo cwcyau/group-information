@@ -2,30 +2,21 @@
 
 ## Group members
 
-The current members of the group are
+The current members of the group are:
 
-*Postdocs*
+|Role|Name|Location|
+|-------|-----------------|-------|
+|Postdoc|Charles Gadd|Oxford|
+|Postdoc|Hanwen Xing|Oxford|
+|PhD Student|Woojung Kim|Warwick|
+|PhD Student|Franziska Gunther|Manchester|
+|PhD Student|Nelson Zhou|Manchester|
+|PhD Student|Ellen Visscher|Oxford|
+|PhD Student|Natalia Hong|Oxford|
+|PhD Student|Andrea Rodriguez|Oxford|
+|PhD Student|Sara Matijevic|Oxford|
 
-- Charles Gadd (Oxford)
-- Hanwen Xing (Oxford)
-
-*PhD Students*
-
-- Woojung Kim (Warwick)
-- Franziska Gunther (Manchester)
-- Nelson Zhou (Manchester)
-- Ellen Visscher (Oxford)
-- Natalia Hong (Oxford)
-- Andrea Rodriguez (Oxford)
-- Sara Matijevic (Oxford)
-
-## Joining the group
-
-### Ways of working
-
-
-
-## In the Office
+## Office Information
 
 We have six desks in the BDI, four in a closed office space on the ground floor and two hot desks immediately outside.
 
@@ -36,6 +27,14 @@ The office desk occupiers are currently:
 3. Charles Gadd
 4. Sara Matijevic
 
-Desk allocations are reiv
+Desk allocations are reviewed periodically to maximise their use/occupancy.
+
+## Joining the group
+
+### Ways of working
+
+
+
+
 
 ## Research Projects
