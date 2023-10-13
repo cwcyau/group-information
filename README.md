@@ -19,7 +19,9 @@ The current members of the group are:
 |PhD Student|Andrea Rodriguez|Oxford|
 |PhD Student|Sara Matijevic|Oxford|
 
-## Office Information and Remote Working
+## Working Information
+
+### Office and Remote Working
 
 We have six desks in the BDI, four in a closed office space on the ground floor and two hot desks immediately outside.
 
@@ -36,13 +38,13 @@ Many group members work remotely and the two hot desks provide space for when yo
 
 I may request meetings at a location in Central Oxford instead of the BDI depending on personal scheduling.
 
-## Working Hours
+### Working Hours
 
 Group members are expected to manage their own working hours. However, there is a reasonable expectation that you would be available for meetings between 09:00 and 17:00 from Mondays to Fridays with 24 hours prior notice. As long as group members make individual progress with their work, you will be given flexibility to manage your own time.
 
 Managed working hours will only be used where suitable and sufficient progress is not being made with your work.
 
-## Leave of absence
+### Leave of absence
 
 **Postdocs** should formally apply for their annual leave in TeamSeer.
 
@@ -50,21 +52,11 @@ If you are taking a pre-planned leave of absence, you can provide this informati
 
 If you need to take that immediate time away (e.g. illness, bereavement), please notify me via e-mail or Slack where that is practical.
 
-## University-related travel
+### University-related travel
 
 If you are travelling on university-related business, please note that the university has certain restrictions and processes in place particularly related to travel outside of the UK. 
 
 NDWRH has step-by-step instructions on its [Booking a Trip](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet/SitePages/Booking-a-Trip.aspx) intranet page but you should remember to:
-
-1. 
-
-
-
-### Travel 
-
-### Travel Insurance
-
-The University provides travel insurance for University employees, students and volunteers travelling within the UK or worldwide on University business. Please see the [University Travel Insurance](https://finance.admin.ox.ac.uk/travel-insurance) for details. You will need to have obtained departmental travel approval before you can apply for travel insurance.
 
 ### Travel Expenses
 
@@ -72,16 +64,9 @@ If you incur any expenses (e.g. food, travel) during your travels, you may recla
 
 For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet).
 
-## Research Expenses
+### Research Expenses
 
-The group generally has access to extensive financial resources and individual members may have access to exclusive 
-
-### Equipment Purchases
-
-
-
-### 
-
+The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
 
 
 ## Research documentation
