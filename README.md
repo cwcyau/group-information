@@ -68,7 +68,7 @@ For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepo
 
 The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
 
-## Works of working
+## Research Documentation
 
 ### Documentation
 
