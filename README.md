@@ -60,7 +60,7 @@ NDWRH has step-by-step instructions on its [Booking a Trip](https://unioxfordnex
 
 ### Travel Expenses
 
-If you incur any expenses (e.g. food, travel) during your travels, you may reclaim these costs typically up to a certain daily limit set by the university. You can find information on the University [Claimants Guide](https://finance.admin.ox.ac.uk/travel-expenses-claimants-guide).
+If you incur any expenses (e.g. food, travel) during your travels, you may reclaim these costs typically up to a certain daily limit set by the university. You can find information on the University [Claimants Guide](https://finance.admin.ox.ac.uk/travel-expenses-claimants-guide). The University [eExpenses system](https://finance.admin.ox.ac.uk/eexpenses-system).
 
 For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet).
 
@@ -94,9 +94,12 @@ There is a Group Slack channel for instant messaging style communications. Use t
 
 ## New Starters
 
+This is a checklist for new starters.
+
 |Item|Who to ask|
 |----|----------|
 |Group Slack|Chris|
 |Group Calendar|Chris|
 |BMRC High-performance Computing|BMRC|
-|NDWRH Intranet|NDWRH|
+|NDWRH Intranet|NDWRH HR|
+|Expenses|NDWRH Finance|
