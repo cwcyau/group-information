@@ -2,6 +2,14 @@
 
 The following provides some information about the group and how it works. The group is administered via the Nuffield Department for Women's and Reproductive Health (NDWRH) but physically based in the Big Data Institute (BDI) where we rent space.
 
+## About Me
+
+As a senior academic, I have a numnber of university and national roles:
+
+- [Health Data Research UK] Deputy Director for Capacity Building
+- [MHRA](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) Scientific Advisor
+
+
 ## Group members
 
 The current members of the group are:
