@@ -6,6 +6,7 @@ The current members of the group are:
 
 |Role|Name|Location|
 |-------|-----------------|-------|
+|Group Head|Christopher Yau|Oxford|
 |Postdoc|Charles Gadd|Oxford|
 |Postdoc|Hanwen Xing|Oxford|
 |PhD Student|Woojung Kim|Warwick|
@@ -16,18 +17,32 @@ The current members of the group are:
 |PhD Student|Andrea Rodriguez|Oxford|
 |PhD Student|Sara Matijevic|Oxford|
 
-## Office Information
+## Office Information and Remote Working
 
 We have six desks in the BDI, four in a closed office space on the ground floor and two hot desks immediately outside.
 
-The office desk occupiers are currently:
+The office occupiers are currently:
 
 1. Ellen Visscher
 2. Natalia Hong
 3. Charles Gadd
 4. Sara Matijevic
 
-Desk allocations are reviewed periodically to maximise their use/occupancy. Lack of occupancy could mean the removal of space from the group so this is something we collectively should be aware of.
+Desk allocations are reviewed periodically to maximise their use/occupancy. The lack of occupancy could result in the removal of space from the group so this is something that we collectively should be aware of.
+
+Many group members work remotely and the two hot desks provide space for when you need to be based in BDI.
+
+I may request meetings at a location in Central Oxford instead of the BDI depending on personal scheduling.
+
+## Working Hours
+
+Group members are expected to manage their own working hours. However, there is a reasonable expectation that you would be available for meetings between 09:00 and 17:00 from Mondays to Fridays with 24 hours prior notice. As long as group members make individual progress with their work, you will be given flexibility to manage your own time.
+
+## Vacation and Sick Leave
+
+**Postdocs** should formally apply for their annual leave in TeamSeer.
+
+If you are taking pre-planned time off, you can provide this information in the group calendar. If you need to take that immediate time away, please notify me via e-mail or Slack where that is practical.
 
 ## Joining the group
 
