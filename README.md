@@ -8,14 +8,7 @@ The following provides some information about the group and how it works. The gr
 
 ### Internal and external roles
 
-As a senior academic, I have a number of university and national roles:
-
-- NDWRH, People & Resources Committee
-- MRC, Better Methods, Better Research Panel Member
-- MRC, Molecular & Cellular Medicine Board Member
-- Health Data Research UK, Deputy Director for Capacity Building
-- MHRA, Scientific Advisor
-- Singula Bio, Scientific Advisor
+As a senior academic, I have a number of university and national roles which occupy a significant portion of my time. This currently includes a formal commitment of 30% of my time at Health Data Research UK where I serve as Deputy Programme Director for Capacity Building.
 
 ## Group members
 
