@@ -56,7 +56,7 @@ If you need to take that immediate time away (e.g. illness, bereavement), please
 
 If you are travelling on university-related business, please note that the university has certain restrictions and processes in place particularly related to travel outside of the UK. 
 
-NDWRH has step-by-step instructions on its [Booking a Trip](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet/SitePages/Booking-a-Trip.aspx) intranet page but you should remember to:
+NDWRH has step-by-step instructions on its [Booking a Trip](https://unioxfordnexus.sharepoint.com/sites/NDWR-NDWRHIntranet/SitePages/Booking-a-Trip.aspx) intranet page. 
 
 ### Travel Expenses
 
