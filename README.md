@@ -76,7 +76,7 @@ Regular documentation of your research is vital as it helps me to follow your pr
 
 #### Google Doc Logs
 
-Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).  You can leave questions for me within these documents. These will be regularly checked and commented on. 
+Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).    You can leave questions for me within these documents. These will be regularly checked and commented on. 
 
 #### Overleaf
 
@@ -89,8 +89,6 @@ You are advised to regularly store program codes and scripts in a code repositor
 ### Slack
 
 There is a Group Slack channel for instant messaging style communications. Use this to ask quick questions or drop me a thought that I can pick up later. However, if it is important, use your Google Doc as Slack messages will not be permanently stored.
-
-## Research Projects
 
 ## New Starters
 
