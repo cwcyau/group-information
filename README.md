@@ -69,19 +69,19 @@ For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepo
 The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
 
 
-## Research documentation
+### Documentation
 
 Regular documentation of your research is vital as it helps me to follow your progress and answer questions you may have inbetween face-to-face meetings. 
 
-### Google Doc Logs
+#### Google Doc Logs
 
 Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).  You can leave questions for me within these documents. These will be regularly checked and commented on. 
 
-### Overleaf
+#### Overleaf
 
 For mathematical work, we will use shared Overleaf documents to enable collaborative. Manuscripts will typically be written in the form of Latex documents unless journal choice mandates the use of Microsoft Word.
 
-### Code repositories
+#### Code repositories
 
 You are advised to regularly store program codes and scripts in a code repository (e.g. Github).
 
