@@ -86,3 +86,12 @@ For mathematical work, we will use shared Overleaf documents to enable collabora
 You are advised to regularly store program codes and scripts in a code repository (e.g. Github).
 
 ## Research Projects
+
+## New Starters
+
+|Item|Who to ask|
+|----|----------|
+|Group Slack|Chris|
+|Group Calendar|Chris|
+|BMRC High-performance Computing|BMRC|
+|NDWRH Intranet|NDWRH|
