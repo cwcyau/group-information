@@ -50,7 +50,17 @@ If you need to take that immediate time away (e.g. illness, bereavement), please
 
 ## Research documention
 
+### Google Doc Logs
 
+Each member of the group will have a Google Doc-based log. This is where you should routinely provide updates on your work and progress (including links to any external materials).  You can leave questions for me within these documents. These will be regularly checked and commented on.
+
+### Overleaf
+
+For mathematical work, we will use shared Overleaf documents to enable collaborative.
+
+### Code repositories
+
+You are advised to store program codes and scripts in a code repository (e.g. Github).
 
 
 ## Research Projects
