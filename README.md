@@ -38,6 +38,8 @@ I may request meetings at a location in Central Oxford instead of the BDI depend
 
 Group members are expected to manage their own working hours. However, there is a reasonable expectation that you would be available for meetings between 09:00 and 17:00 from Mondays to Fridays with 24 hours prior notice. As long as group members make individual progress with their work, you will be given flexibility to manage your own time.
 
+Managed working hours will only be used where suitable and sufficient progress is made with your work.
+
 ## Leave of absence
 
 **Postdocs** should formally apply for their annual leave in TeamSeer.
@@ -46,10 +48,7 @@ If you are taking a pre-planned leave of absence, you can provide this informati
 
 If you need to take that immediate time away (e.g. illness, bereavement), please notify me via e-mail or Slack where that is practical.
 
-## Joining the group
-
-### Ways of working
-
+## Research documention
 
 
 
