@@ -44,9 +44,9 @@ Group members are expected to manage their own working hours. However, there is 
 
 Managed working hours will only be used where suitable and sufficient progress is not being made with your work.
 
-## Group Calendar
+### Group Calendar
 
-There is a group calendar where you can add 
+There is a Google-based group calendar where I will add key dates and activities. You can also add your own information (e.g. absences) to this calendar.
 
 ### Leave of absence
 
