@@ -1,5 +1,7 @@
 # Research Group Information
 
+The following provides some information about the group and how it works.
+
 ## Group members
 
 The current members of the group are:
