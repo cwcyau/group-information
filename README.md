@@ -1,6 +1,6 @@
 # Research Group Information
 
-The following provides some information about the group and how it works.
+The following provides some information about the group and how it works. The group is administered via the Nuffield Department for Women's and Reproductive Health (NDWRH) but physically based in the Big Data Institute (BDI) where we rent space.
 
 ## Group members
 
