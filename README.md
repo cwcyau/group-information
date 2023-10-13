@@ -27,7 +27,7 @@ The office desk occupiers are currently:
 3. Charles Gadd
 4. Sara Matijevic
 
-Desk allocations are reviewed periodically to maximise their use/occupancy.
+Desk allocations are reviewed periodically to maximise their use/occupancy. Lack of occupancy could mean the removal of space from the group so this is something we collectively should be aware of.
 
 ## Joining the group
 
