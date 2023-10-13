@@ -68,7 +68,7 @@ For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepo
 
 The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
 
-## Research Documentation
+## Ways of working
 
 ### Documentation
 
@@ -85,6 +85,10 @@ For mathematical work, we will use shared Overleaf documents to enable collabora
 #### Code repositories
 
 You are advised to regularly store program codes and scripts in a code repository (e.g. Github).
+
+### Slack
+
+There is a Group Slack channel for instant messaging style communications. Use this to ask quick questions or drop me a thought that I can pick up later. However, if it is important, use your Google Doc as Slack messages will not be permanently stored.
 
 ## Research Projects
 
