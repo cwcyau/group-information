@@ -110,6 +110,6 @@ This is a checklist for new starters.
 |----|----------|
 |Group Slack|Chris|
 |Group Calendar|Chris|
-|BMRC High-performance Computing|BMRC|
+|BMRC High-performance Computing|Chris/BMRC|
 |NDWRH Intranet|NDWRH HR|
 |Expenses|NDWRH Finance|
