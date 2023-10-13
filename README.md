@@ -44,6 +44,10 @@ Group members are expected to manage their own working hours. However, there is 
 
 Managed working hours will only be used where suitable and sufficient progress is not being made with your work.
 
+## Group Calendar
+
+There is a group calendar where you can add 
+
 ### Leave of absence
 
 **Postdocs** should formally apply for their annual leave in TeamSeer.
@@ -69,6 +73,10 @@ For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepo
 The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
 
 ## Ways of working
+
+### Meetings
+
+For members where I am primary supervisor or line manager, the meeting frequently is typically once per week. Frequency will be adapted based on status and progress of research accordingly so meetings for senior students and postdocs, who are more independent, maybe reduced to once every two weeks. For co-supervised members, meeting frequency will be made consummate with my general contribution to your supervision.
 
 ### Documentation
 
