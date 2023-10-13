@@ -70,7 +70,7 @@ For further details, consult the [NDWRH Intranet](https://unioxfordnexus.sharepo
 
 ### Research Expenses
 
-The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses.
+The group generally has access to extensive financial resources and individual members may have access to exclusive funds for equipment and other research expenses. Ask Chris for more details if you need to make any purchases. **Please note that university suppliers can be very, very slow.**
 
 ## Ways of working
 
