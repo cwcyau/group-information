@@ -2,7 +2,7 @@
 
 ## Foundations of Machine Learning
 
-I am generally interested in how to build better machine learning (ML) models for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have actually had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from the real world realities of applications by stylising the problem into a form which is mathematically or computationally convenient and elegant but, in doing so, making it impractical in the real world.
+I am generally interested in how to build better machine learning (ML) models for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have actually had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from the real world realities of applications by stylising the problem into a form which is mathematically or computationally convenient and elegant but, in doing so, making it impractical in the real world. Assumptions can also be made which are unrealistic, e.g. the amount of available data.
 
 ### Stability of machine learning models
 
