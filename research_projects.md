@@ -2,6 +2,8 @@
 
 ## Foundations of Machine Learning
 
+I am generally interested in how to build better machine learning (ML) models for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have actually had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from the real world realities of applications by stylising the problem into a form which is mathematically or computationally convenient and elegant but, in doing so, making it impractical in the real world.
+
 ### Stability of machine learning models
 
 Let $X$ denote an input and $Y$ denote an output and assume a function $f_\theta$ parameterised by $\theta$ links input and output via the relationship $Y = f_\theta(X) + \epsilon$ where $\epsilon$ is iid noise. Given data $D = \{\{x_1, y_1\}, \dots, \{x_n,y_n\}\}$, learning corresponds to finding $\hat{theta}$ (or a distribution over $p(\theta|D)$ in a Bayesian setting) that minimises an empirical loss function $L_\theta(D)$:
