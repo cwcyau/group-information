@@ -36,7 +36,7 @@ As a senior academic, I have a number of university and national roles which occ
 
 I will keep an open mind about your research ideas and approaches but I will challenge you to evidence your claims. The aim is not to be deliberately difficult or antagonistic but to strengthen your ability to evaluate your own thoughts carefully and to present and communicate an argument effectively - a skill that you will undoubtedly utilised throughout your working life.
 
-In our collaboration, it can often be tempting to use my own expertise and experience to curtail certain research directions. The long-term learning you gain from stumbling into blind alleys and errors can be invaluable and I do not want to deny you that experience - even if it seems inefficient. Also, my intuition is not  infallible, your idea could work!
+In our collaboration, it can often be tempting to use my own expertise and experience to "fix" problems for you. However, the long-term learning you gain from stumbling into blind alleys and errors can be invaluable.
 
 ## Publications
 
