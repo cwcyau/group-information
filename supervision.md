@@ -1,6 +1,6 @@
 # Supervision Information
 
-I principally see my relationship with students and postdocs as *collaborative* and we are working in partnership to achieve one or more of the following:
+I principally see my relationship with students and postdocs as *collaborative* and we are working in partnership to achieve the following:
 
 1. Do interesting science.
 2. To learn new skills.
