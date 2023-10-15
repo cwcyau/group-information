@@ -2,36 +2,28 @@
 
 ## Foundations of Machine Learning
 
-I am generally interested in how to build machine learning (ML) models with more *realistic* underlying assumptions for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from their potential real world use by stylising the problem into a form which is mathematically or computationally convenient and elegant but not practicable for the end-users. Implicit assumptions can also be made which are unrealistic, e.g. the amount of available data or assuming that the model can be used independently of human decision making.
+I am generally interested in how to build machine learning (ML) models with more *realistic* underlying assumptions for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from their potential real world use by stylising the problem into a form which is mathematically or computationally convenient and/or elegant but not practicable for end-users. Implicit assumptions can also be made which are unrealistic, e.g. the amount of available data or assuming that the model can be used independently of human decision making. 
 
-### Feature-interpretability
+There are two major themes aspects in which I am currently interested: 
 
-In the biological sciences, molecular tools are used to probe cellular and physiological machinery to understand their normal, diseased and perturbed (e.g. genetic modification, chemical stimulation) behaviours. 
+### Feature-level interpretability
+
+In the biological sciences, molecular tools are used to probe cellular and physiological machinery to understand their normal, diseased and perturbed (e.g. genetic modification, chemical stimulation) behaviours. Validation of *biological mechanism* relies on being able to measure biophysical quantities (e.g. DNA, mRNA, proteins, metabolites, etc). True interpretation can *only* be achieved in terms of these physical objects. In contrast, in recent machine learning development, the literature on explainability and interpretability has often drifted into the abstract and it can be difficult to understand representations in terms of their relationship to physically measureable quantities. 
+
+I am interested in the specification of machine learning which possess *feature-level interpretability* where representations and post-hoc interpretation are explicitly tied to the specification of measurable input features. This work connects machine learning with explicit mechanistic models (e.g. differential equations) and is often overlooked as mainstream ML developers typically focus on ML first, not the details of the application.
 
 ### Stability of machine learning models
 
-Let $X$ denote an input and $Y$ denote an output and assume a function $f_\theta$ parameterised by $\theta$ links input and output via the relationship $Y = f_\theta(X) + \epsilon$ where $\epsilon$ is iid noise. Given data $D = \{\{x_1, y_1\}, \dots, \{x_n,y_n\}\}$, learning corresponds to finding $\hat{theta}$ (or a distribution over $p(\theta|D)$ in a Bayesian setting) that minimises an empirical loss function $L_\theta(D)$:
+Unstable machine models are problematic in critical applications, such as in medical devices, where medical device regulation imposes certain safety and assurance conditions on manufacturers. Instability can occur due to a number of factors including (i) model misspecification, (ii) inadequate inference, and (iii) data distribution shifts during real runtime. The effect is that ML models could give wildly different outputs for inputs which are potentially similar. 
 
-$$
-  \hat{\theta} = \arg \min_{\theta} L_\theta(D)
-$$
-
-The performance of the model depends on three key things:
-
-1. The detailed specification of $f_\theta$, e.g. is it linear? is it a neural network?, and its capacity to flexibly model different relationships including the *unknown* but true function (**model specification**).
-2. Our ability to learn $\hat{\theta}$ to identify that true function given data (**optimisation**).
-3. The representative of the data $D$ of the test time data distribution (**predictive capability**).
-
-The stability of a model refers to whether (potentially small) deviations in model parameters or data distribution could cause the model to give wildly different predictions. 
-
-That is, if $y_1 = f_\theta(x)$ and $y_2 = f_{\theta'}(x)$, where $\theta' = \theta (1 + \delta)$, if the distance between the outputs $d(y_1, y_2) \gg 0$ when $\delta \ll 1$ then the model is considered to be *unstable* with respect to its parameters (which could be due to either model misspecification or poor optimisation). 
-
-Similarly, if $y_1 = f_\theta(x_1)$ and $y_2 = f_{\theta}(x_2)$, where $x_1 \sim Q_1$ and $Q_2 \sim H_2$ and $H_1$ and $H_2$ are two input distributions, if the distance between the outputs $d(y_1, y_2) \gg 0$ when the distance between input distributions $h(Q_1,Q_2)$ then the model is considered to be *unstable* with respect to its input distribution.
-
-**Research Problem** Unstable machine models are problematic in critical applications, such as in medical devices, can we build machine learning models with *built-in* mechanisms to minimise instability from the outset?
-
-**Motivation** Medical devices based on provably stable machine learning models are better candidates for regulatory approval than those where there are no stability guarantees.
+I am interested in understanding if there are specifications of machine learning models which can explicitly help to avoid common instability issues and their implications for medical device regulation. This work would require developing an understanding of (what are typically considered to be) downstreet regulatory issues, can impact on the design of ML systems at the fundamental level.
 
 ## Applications
 
-###
+### Foundation Models for Multiple Long-Term Conditions research
+
+I am co-lead in two national consortia ([MuM-PreDicT](https://mumpredict.org/) and [OPTIMAL](https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx) which are studying the health outcomes of individuals with two or more chronic health conditions in the UK. This research predominately uses electronic health records held in large repositories (e.g. [CPRD](https://cprd.com/)). These databases are highly-protected and access restricted to vetted users with a genuine and approved research plan. This stringent approach makes the widespread use of this data difficult outside of a relatively small community of researchers and industry. We are interested in building [foundation models](https://en.wikipedia.org/wiki/Foundation_models) using these databases which could serve as a protected proxy allowing access to the knowledge contained in the database but without the possibility of revealing individual health records. This capability could then enable the production of clinical prediction models for a variety of conditions including women's health issues of unmet need.
+
+### Multimodal Cancer Data Integration
+
+As Bioinformatics & Machine Learning Research Network Lead for [Genomics England](https://www.google.com/search?q=genomics+england&rlz=1C5CHFA_enGB984GB984&oq=genomics+england&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQIxgnMgkIAhAjGCcYigUyBwgDEAAYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYQagCALACAA&sourceid=chrome&ie=UTF-8), I am interested in utilising their multimodal dataset consisting of whole cancer genomes and pathology images to develop clinical prediction models that combines clinical, genetic and tissue imaging information to provide an indication of possible prognostic outcomes.
