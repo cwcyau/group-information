@@ -9,7 +9,7 @@ I see my relationships with students and postdocs as *collaborative* and a *lear
 3. To develop your research autonomy and independence.
 4. To further your career ambitions.
 
-In order to allow this development, I will typically afford you considerable freedom and independence to structure your work and to decide your own path. I *do not* want to instruct you on what to do but to co-develop the research strategy with you. As a result, the group often works on a variety of problems using many different techniques and methodologies.
+In order to allow this development, I will typically afford you considerable freedom and independence to structure your work and to decide your own path. I *do not* want to instruct you on what to do but to co-develop the research strategy with you. As a result, the group often works on a variety of problems using many different techniques and methodologies. This degree of independence can be an alien experience, particularly for PhD students but also postdocs coming from research groups where there is less autonomy, but guidance will be provided along the way to help you transition to greater independence.
 
 Note, in the case of postdocs, there maybe some limitations imposed by the source of funding providing the position but these would be discussed when you start your role.
 
@@ -36,7 +36,7 @@ As a senior academic, I have a number of university and national roles which occ
 
 I will keep an open mind about your research ideas and approaches but I will challenge you to evidence your claims. The aim is not to be deliberately difficult or antagonistic but to strengthen your ability to evaluate your own thoughts carefully and to present and communicate an argument effectively - a skill that you will undoubtedly utilised throughout your working life.
 
-In our collaboration, it can often be tempting to use my own expertise and experience to "fix" problems for you. However, the long-term learning you gain from stumbling into blind alleys and errors can be invaluable.
+In our collaboration, it can often be tempting to use my own expertise and experience to *fix* problems for you. However, the long-term learning experience you gain from stumbling into blind alleys and errors can be invaluable so I will often resist the temptation to provide immediate help so that you may have the chance to think through problems for yourself.
 
 ## Publications
 
@@ -44,7 +44,7 @@ Publishable material will likely naturally arise from your research and we will 
 
 ## Moving On
 
-Most people who pass through the group 
+People move into and out of the group continuously. If you feel it is time to move or you want to discuss moving on, my philosophy is that if I am doing my job well then you may become ready to move on to your next venture before the formal end date of your PhD or employment contract.
 
 
 
