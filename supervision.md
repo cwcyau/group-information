@@ -7,7 +7,7 @@ I principally see my relationship with students and postdocs as *collaborative* 
 3. To develop your research autonomy and independence.
 4. To further your career ambitions.
 
-In order to allow this development, I typically afford my group members considerable freedom and independence to structure their work and decide their own path. As a result, the group often works on a variety of problems using many different techniques and methodologies. 
+In order to allow this development, I typically afford my group members considerable freedom and independence to structure their work and decide their own path. As a result, the group often works on a variety of problems using many different techniques and methodologies. I shy avoid away from strictly telling group members *what to do* except to where it makes to diagnose problems, build rigour in an approach or to correct clear mistakes.
 
 Note, in the case of postdocs, there maybe some limitations imposed by the source of funding providing the position but these would be discussed when you start your role.
 
