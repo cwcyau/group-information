@@ -34,7 +34,9 @@ Finally, *never* be afraid to say "I don't know" or "I have made a mistake". Cod
 
 As a senior academic, I have a number of university and national roles which occupy a significant portion of my time. This currently includes a formal commitment of a 30% secondment to [Health Data Research UK]() where I serve as Deputy Programme Director for Capacity Building. However, the priority is always the group and so I will maintain regular meetings with you (usually weekly or biweekly) and monitor your research logs. 
 
-I will keep an open mind about your research ideas and approaches but I will challenge you to evidence your claims. The aim is not to be deliberately difficult or antagonistic but to strengthen your ability to evaluate your own thoughts carefully and to present and communicate an argument effectively - a skill that you will undoubtedly utilised throughout your working life. Sometimes I may even allow you to pursue ideas that my experience tells me probably will not work. The long-term learning you gain from stumbling into blind alleys and errors can be invaluable and I do not want to deny you that experience - even if it seems inefficient. Also, my intuition is not  infallible, your idea could work!
+I will keep an open mind about your research ideas and approaches but I will challenge you to evidence your claims. The aim is not to be deliberately difficult or antagonistic but to strengthen your ability to evaluate your own thoughts carefully and to present and communicate an argument effectively - a skill that you will undoubtedly utilised throughout your working life.
+
+In our collaboration, it can often be tempting to use my own expertise and experience to curtail certain research directions. The long-term learning you gain from stumbling into blind alleys and errors can be invaluable and I do not want to deny you that experience - even if it seems inefficient. Also, my intuition is not  infallible, your idea could work!
 
 ## Publications
 
