@@ -3,9 +3,9 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28711-rqnwf1/_sass/jekyll-theme-minimal.scss",
-		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28711-rqnwf1/_sass/fonts.scss",
-		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28711-rqnwf1/_sass/rouge-github.scss"
+		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28921-sxqmz/_sass/jekyll-theme-minimal.scss",
+		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28921-sxqmz/_sass/fonts.scss",
+		"../../../../../private/var/folders/fm/1x1tmzzs4kn6k3b26q830w180000gn/T/jekyll-remote-theme-20231015-28921-sxqmz/_sass/rouge-github.scss"
 	],
 	"sourcesContent": [
 		"@import \"jekyll-theme-minimal\";\n",
