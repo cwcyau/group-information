@@ -2,7 +2,7 @@
 
 ## General approach
 
-I principally see my relationship with students and postdocs as *collaborative* and a *learning experience* we are working in partnership to achieve the following:
+I see my relationships with students and postdocs as *collaborative* and a *learning experience* where we are working in partnership to achieve the following:
 
 1. Do interesting science.
 2. To learn new skills.
