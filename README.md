@@ -4,16 +4,16 @@ The following provides some information about the group and how it works. The gr
 
 **Contents**
 
-[Supervision Information](supervision.md)
+[Supervision Information](supervision.md) - tells you about the way your line management or student supervision will work, aims and objectives.
 
-[Group Members](members.md)
+[Group Members](members.md) - tells you about the current members of the group.
 
-[Work Information](workinginfo.md)
+[Work Information](workinginfo.md) - provides administrative information about working in the group.
 
-[Ways of working](waysofworking.md)
+[Ways of working](waysofworking.md) - gives information about how we conduct our research.
 
-[New Starters](newstarters.md)
+[New Starters](newstarters.md) - information and a checklist for new starters.
 
-[Research Themes](research_projects.md)
+[Research Themes](research_projects.md) - current and potential research themes.
 
 
