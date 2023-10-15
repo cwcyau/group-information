@@ -15,11 +15,11 @@ Note, in the case of postdocs, there maybe some limitations imposed by the sourc
 
 ## Expectations of you
 
-You are therefore expected to manage your own time *effectively* but I will expect you to adopt the following practices:
+You will be expected to do the following:
 
 1. Document your research regularly.
 2. Utilise your flexible working hours respectfully and do work consistently.
-3. 
+3. Be honest and frank about your current thoughts and situation.
 
 ## Expectations of me
 
