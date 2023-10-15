@@ -14,5 +14,6 @@ The following provides some information about the group and how it works. The gr
 
 [New Starters](newstarters.md)
 
+[Research Themes](research_projects.md)
 
 
