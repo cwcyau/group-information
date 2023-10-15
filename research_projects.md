@@ -4,6 +4,10 @@
 
 I am generally interested in how to build machine learning (ML) models with more *realistic* underlying assumptions for applied scientific applications. A general feature of machine learning development is that it is often undertaken by individuals who have had very little background in applied sciences. As a consequence, ML methods can often be somewhat divorced from their potential real world use by stylising the problem into a form which is mathematically or computationally convenient and elegant but not practicable for the end-users. Implicit assumptions can also be made which are unrealistic, e.g. the amount of available data or assuming that the model can be used independently of human decision making.
 
+### Feature-interpretability
+
+In the biological sciences, molecular tools are used to probe cellular and physiological machinery to understand their normal, diseased and perturbed (e.g. genetic modification, chemical stimulation) behaviours. 
+
 ### Stability of machine learning models
 
 Let $X$ denote an input and $Y$ denote an output and assume a function $f_\theta$ parameterised by $\theta$ links input and output via the relationship $Y = f_\theta(X) + \epsilon$ where $\epsilon$ is iid noise. Given data $D = \{\{x_1, y_1\}, \dots, \{x_n,y_n\}\}$, learning corresponds to finding $\hat{theta}$ (or a distribution over $p(\theta|D)$ in a Bayesian setting) that minimises an empirical loss function $L_\theta(D)$:
